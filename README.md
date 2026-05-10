@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hi people 👋
 
-I'm current a university student, and I upload my individual data analysis projects here!
+I'm currently a university student, and I upload my individual data analysis projects here!
